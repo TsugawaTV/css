@@ -1,1 +1,2 @@
+/* ゴシック体・フォントファミリー（日本語向け） */
 body {font-family:"Helvetica Neue",Helvetica,Arial,"Hiragino Sans","Hiragino Kaku Gothic ProN",Meiryo,sans-serif}
